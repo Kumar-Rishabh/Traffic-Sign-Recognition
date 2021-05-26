@@ -1,5 +1,5 @@
 # Traffic-Sign-Recognition
-This is project where we recognize the traffic sign using deep learning.
+This is a project where we recognize the traffic sign using deep learning.
 
 we have built a deep neural network model that can classify traffic signs present in the image into different categories.
 
