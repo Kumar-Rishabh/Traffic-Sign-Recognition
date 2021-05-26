@@ -7,7 +7,7 @@ Dataset
 
 We have used <b>GTSRB-German Traffic Sign Recognition Benchmark</b> dataset.It has more than 50000 images of traffic signs which is divided into 43 different categories.
 
-For training the model run the Traffic_Sign_Recognition.ipynb file.
+For training the model run the Traffic_Sign_Recognition.ipynb file or just the TSR.h5 file.
 
 After training the model we have built a GUI for the same.We have used TKinter to make the GUI.
 
